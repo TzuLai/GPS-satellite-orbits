@@ -1,0 +1,26 @@
+ID:                         01
+Health:                     000
+Eccentricity:               0.1081132889E-001
+Time of Applicability(s):  61440.0000
+Orbital Inclination(rad):   0.9844165911
+Rate of Right Ascen(r/s):  -0.7851755629E-008
+SQRT(A)  (m 1/2):           5153.640137
+Right Ascen at Week(rad):  -0.3059924280E+001
+Argument of Perigee(rad):   0.836921342
+Mean Anom(rad):            -0.3277359691E+000
+Af0(s):                     0.6999969482E-003
+Af1(s/s):                  -0.1091393642E-010
+week:                        108
+ID:                         02
+Health:                     000
+Eccentricity:               0.2021694183E-001
+Time of Applicability(s):  61440.0000
+Orbital Inclination(rad):   0.9631026471
+Rate of Right Ascen(r/s):  -0.8046049436E-008
+SQRT(A)  (m 1/2):           5153.617188
+Right Ascen at Week(rad):   0.3139996505E+001
+Argument of Perigee(rad):  -1.521316833
+Mean Anom(rad):            -0.5988891692E-001
+Af0(s):                    -0.6008148193E-003
+Af1(s/s):                  -0.3637978807E-011
+week:                        108
