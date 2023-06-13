@@ -1,5 +1,5 @@
 # Computation of GPS satellite orbits from Broadcast and Almanac Ephemeris
-reference: IS-GPS-200 document: https://www.gps.gov/technical/icwg/IS-GPS-200L.pdf
+reference: IS-GPS-200 document: https://www.gps.gov/technical/icwg/IS-GPS-200L.pdf \n
 read the broadcast ephemeris from the RINEX file “test1.21N”
 ### (a) Compute the position of the GPS satellite PRN 32 in the ECEF coordinate system WGS84 for the GPS seconds of week (SOW) 36000 s and the week number (WN) 2156.
 
